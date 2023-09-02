@@ -40,7 +40,7 @@ print("Beta Values:")
 for symbol, beta in beta_values.items():
     print(f"{symbol}: {beta}")
 ```
-![image](https://github.com/raynachen2023/Finance_Beta-calculation/assets/128624675/19e2f27e-8233-4160-a802-e28dcde78f0c)
+![image](https://github.com/raynachen2023/Finance_Beta-calculation/assets/128624675/19c43282-84e2-42ef-9289-c6c6c16db780)
 
 ## Visualization
 ```
