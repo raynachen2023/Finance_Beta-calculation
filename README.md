@@ -58,5 +58,5 @@ for symbol, beta in beta_values.items():
 plt.show()
 ```
 
-![image](https://github.com/raynachen2023/Finance_Beta-calculation/assets/128624675/fdf22a9f-cf89-46c8-827b-8e21f40cff09)
+![image](https://github.com/raynachen2023/Finance_Beta-calculation/assets/128624675/9ae005a9-b3fa-473a-88a0-d3829d879173)
 
