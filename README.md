@@ -1,4 +1,4 @@
-# Beta Calculations for Magnificent 7 (Data range: 2021-8-1 to 2023-8-1) 
+# Beta Calculations for Magnificent 7 (Date range: 2021-8-1 to 2023-8-1) 
 The project is completed using Python Jupiter Notebook and the data source is from Yahoo Finance. 
 # Beta Formula
 Beta = Covariance(Return of the stock, Return of the market) / Variance(Return of the market)
